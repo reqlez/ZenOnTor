@@ -75,6 +75,7 @@ addnode=eorrku3hauy53zup.onion
 addnode=mbkpyfwjudi423xp.onion
 addnode=ayeypndttmb54eeu.onion
 addnode=bdfdc3ch5feattda.onion
+addnode=dr7rtjaszmuowjrt.onion
 ``` 
 
 Restart zend and your node will officially be hidden and outta sight :D
@@ -124,6 +125,7 @@ addnode=eorrku3hauy53zup.onion
 addnode=mbkpyfwjudi423xp.onion
 addnode=ayeypndttmb54eeu.onion
 addnode=bdfdc3ch5feattda.onion
+addnode=dr7rtjaszmuowjrt.onion
 ```
 
 Submit a PR to have yours added!
